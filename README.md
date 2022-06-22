@@ -8,7 +8,7 @@
   <br />
 
   <h2 align="center">Registration Form</h2>
-In this project, I have learned  learn HTML forms by building a signup page, The project is built using HTML5 & CSS3.
+In this project, I have learned  learn HTML forms by building a signup page, <br />The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/registration-form/"><strong>➥ Live Demo</strong></a>
 
